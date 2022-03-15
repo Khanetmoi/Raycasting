@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
+  Raycasting Project
 > Description the project.
-
+ In this project, I'm going to build a pseudo 3D world AKA fake 3D by using the raycasting method
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML CSS JAVASCRIPT
+
+- Vs code
 
 ## Live Demo (if available)
 
